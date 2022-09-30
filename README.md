@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Radhika Khurana
-- 👀 I’m interested in ...
 - 🌱 I’m currently a senior at Rensselaer Polytechnic Institute studying Computer Science and Business Analytics. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me via email @mail.radhikakhurana@gmail.com
 -
 
